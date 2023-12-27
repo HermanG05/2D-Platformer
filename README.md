@@ -1,3 +1,3 @@
-# Zelda-game
+# 2D-Platformer
 
-A project developed for my grade 12 computer science class. Utilizes the pygame library. 
+A 2D platformer game developed for my Grade 12 Computer Science class using Pygame. This project showcases object-oriented programming concepts.
